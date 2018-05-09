@@ -1,0 +1,7 @@
+1) o day phai co 2 goi tin json luu tat ca cac nut nhan 
++id , tt,
+
+2) local storage minh chua hoan thanh
+
+3) hieu ve dinh dang , va hieu ung chua hieu sau .
+

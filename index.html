@@ -7,28 +7,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
 
-<script  src="library/jquery.min.js" > </script>
-<script> 
-
-$(document).ready(function(){
-
-
-
-$("#btn1").click(function(){
-
-
-alert("ngokimquy");
-
-})
-
-})
-</script>
+    <link rel="stylesheet" href="library/bootstrap.min.css">
+    <script src="library/bootstrap.min.js"></script>
+    <script src="library/jquery.min.js"></script>
+<script src="kichban/login.js" >   </script>
 
 </head>
 <body>
-    <h1>ngokimquy</h1>
+  <div  class="container" >
+<h2>vertical form</h2>
+
+<form     >
+
+<div class="form-group" >
+    <label > USER:  </label>
+    <input type="text"  class="form-control"  id="user" placeholder="USER" >
+</div>
+
+<div  class="form-group" >
+    <label > PASSWORD:  </label>
+<input type="text" class="form-control" id="password"  placeholder="PASSWORD" >
+</div>
+
+<div class="checkbox" >
+    <label > <input type="checkbox"  >  Remember me  </label>
+    
+</div>
+
+<button type="submit" class="btn btn-default" >  login</button>
 
 
-    <button type="" id="btn1" > thanh pho ho chi m,onh</button>
+</form>
+
+
+
+
+
+
+      
+  </div>
+
+
+
+
+
 </body>
 </html>
