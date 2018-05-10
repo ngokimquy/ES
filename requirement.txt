@@ -1,0 +1,5 @@
+1) data hien thi 
++ tao tung goi tin va cho hien thi tung cai 
++ tao goi tin me cong don tat ca lai 
++ thay doi tung goi tin trong goi tin sau do hien thi goi tin me./
+2) them phan

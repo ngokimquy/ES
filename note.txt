@@ -5,3 +5,6 @@
 
 3) hieu ve dinh dang , va hieu ung chua hieu sau .
 
+
+4) hieu ve khai niem storage
++ cookies la gi   
