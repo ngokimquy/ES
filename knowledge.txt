@@ -1,2 +1,7 @@
+10/5/2018
+
 1)_ hieu ro phan box model
 2) position , overflow, flexbox....
+3) tat ca nhung gi ve css phai xem qua het de co kien thuc ve no , hay hoc that can than 
+    
+
