@@ -1,0 +1,4 @@
+1) box model 
+
++ the hien tung phan 
++ header va body phai hoan thanh
