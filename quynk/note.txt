@@ -8,3 +8,5 @@
 
 4) hieu ve khai niem storage
 + cookies la gi   
++local sotegae la gi
++sql dât la gi.
